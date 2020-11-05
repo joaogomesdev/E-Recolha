@@ -2,7 +2,7 @@
 # ERecolha
 
 <p align="center">
-  <img src="https://res.cloudinary.com/joaogomes5/image/upload/v1604602294/GitHub/Screenshot_from_2020-11-05_18-49-58_qjy27z.png" title="Image" alt="ProjectImage" width="500px" height="500px">
+  <img src="https://res.cloudinary.com/joaogomes5/image/upload/v1604602294/GitHub/Screenshot_from_2020-11-05_18-49-58_qjy27z.png" title="Image" alt="ProjectImage">
 </p>
 
 > Project carried out at Next Level Week, an event carried out by RocketSeat, in this project I went from Backend to Frontend and Mobile, a project that was successful (It is not yet finished because I want to integrate a Localization API for PT)
